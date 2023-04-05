@@ -1,6 +1,6 @@
 {
   "name": "midjourney-stable-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mijourney client",
   "main": "index.js",
   "type": "module",
